@@ -41,6 +41,8 @@
 |Kisechan| https://blog.kisechan.space/ | https://blog.kisechan.space/atom.xml | https://github.com/Kisechan |
 |石上三年| https://blog.sssn.tech | | https://github.com/sssn-tech |
 |NaraFluorine| https://narafluorine.github.io | | https://github.com/NaraFluorine |
+|溴化锂|https://nvme0n1p.dev | | https://github.com/lbr77 |
+|neise1| https://neise1.github.io/ |  | https://github.com/neise1 |
 
 ## See Also
 
